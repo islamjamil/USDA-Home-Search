@@ -168,14 +168,9 @@ Project Link: [https://github.com/islamjamil/usda_homes](https://github.com/isla
 * Vercel > Github Pages (Deployments per commit :) and better and even custom urls)
 
 ## Gallery
-* [Ocean County, NJ](https://usda-homes.vercel.app/search?county=Ocean+County%2C+NJ)  
-<img src="md_images/Ocean_County.png" width="864">   
-* [Home in Gig Harbor, WA](https://usda-homes.vercel.app/property/63276302)  
-<img src="md_images/Gig_Harbor_Home_1.png" width="864">   
-<img src="md_images/Gig_Harbor_Home_2.png" width="864">   
-<img src="md_images/Gig_Harbor_Home_3.png" width="864">  
-* [Marker indicating the home in Google Maps Street View](https://usda-homes.vercel.app/property/49299225)  
-<img src="md_images/StreetView_Marker.png">     
+* [Ocean County, NJ](https://usda-homes.vercel.app/search?county=Ocean+County%2C+NJ)  <img src="md_images/Ocean_County.png" width="864">   
+* [Home in Gig Harbor, WA](https://usda-homes.vercel.app/property/63276302)  <img src="md_images/Gig_Harbor_Home_1.png" width="864">   <img src="md_images/Gig_Harbor_Home_2.png" width="864">   <img src="md_images/Gig_Harbor_Home_3.png" width="864">  
+* [Marker indicating the home in Google Maps Street View](https://usda-homes.vercel.app/property/49299225)  <img src="md_images/StreetView_Marker.png">     
  
 
 <!-- MARKDOWN LINKS & IMAGES -->
