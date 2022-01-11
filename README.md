@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://usda_homes.vercel.app/search)
+[![Product Name Screen Shot][product-screenshot]](https://usda-homes.vercel.app/search)
 
 Individuals using [USDA Single Family Housing Direct Loans](https://www.rd.usda.gov/programs-services/single-family-housing-programs/single-family-housing-direct-home-loans) are required to purchase homes in [designated rural areas](https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=sfp). Traditionally, sites like Zillow or Redfin would be used to find desired houses, and the eligibility of the homes would be individually verified. My project USDA Home Search solves this problem by allowing users to search through eligible homes in their approved county that match their desired criteria (square footage, price, etc.)
 
