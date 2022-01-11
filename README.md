@@ -10,7 +10,7 @@
   <h3 align="center">Find USDA Eligible Homes with Ease!</h3>
 
   <p align="center">
-    <a href="https://usda_homes.vercel.app/search">View Demo</a>
+    <a href="https://usda-homes.vercel.app/search">View Demo</a>
     ·
     <a href="https://github.com/islamjamil/usda_homes/issues">Report Bug</a>
     ·
