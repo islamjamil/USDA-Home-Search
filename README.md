@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]]
 
 Individuals using [USDA Single Family Housing Direct Loans](https://www.rd.usda.gov/programs-services/single-family-housing-programs/single-family-housing-direct-home-loans) are required to purchase homes in [designated rural areas](https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do?pageAction=sfp). Traditionally, sites like Zillow or Redfin would be used to find desired houses, and the eligibility of the homes would be individually verified. My project USDA Home Search solves this problem by allowing users to search through eligible homes in their approved county that match their desired criteria (square footage, price, etc.)
 
@@ -169,9 +169,9 @@ Project Link: [https://github.com/islamjamil/usda_homes](https://github.com/isla
 * Vercel > Github Pages (Deployments per commit :) and better and even custom urls)
 
 ## Gallery
-* [Ocean County, NJ]  <img src="md_images/Ocean_County.png" width="864">   
-* [Home in Gig Harbor, WA]  <img src="md_images/Gig_Harbor_Home_1.png" width="864">   <img src="md_images/Gig_Harbor_Home_2.png" width="864">   <img src="md_images/Gig_Harbor_Home_3.png" width="864">  
-* [Marker indicating the home in Google Maps Street View]  <img src="md_images/StreetView_Marker.png">     
+* Ocean County, NJ  <img src="md_images/Ocean_County.png" width="864">   
+* Home in Gig Harbor, WA  <img src="md_images/Gig_Harbor_Home_1.png" width="864">   <img src="md_images/Gig_Harbor_Home_2.png" width="864">   <img src="md_images/Gig_Harbor_Home_3.png" width="864">  
+* Marker indicating the home in Google Maps Street View  <img src="md_images/StreetView_Marker.png">     
  
 
 <!-- MARKDOWN LINKS & IMAGES -->
