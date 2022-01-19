@@ -13,7 +13,6 @@
     <a href="https://github.com/islamjamil/usda_homes/issues">Report Bug</a>
     ·
     <a href="https://github.com/islamjamil/usda_homes/issues">Request Feature</a>
-    <br> Please Note: Demo may not load due to exhaustion of monthly free API calls
   </p>
 </div>
 
