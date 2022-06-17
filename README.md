@@ -160,13 +160,6 @@ Project Link: [https://github.com/islamjamil/usda_homes](https://github.com/isla
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-## Takeaways from this Project
-
-* NextJS > Create React App (not even an argument)
-* D3 is a very powerful library
-* Vercel > Github Pages (Deployments per commit :) and better and even custom urls)
-
 ## Gallery
 * Ocean County, NJ  <img src="md_images/Ocean_County.png" width="864">   
 * Home in Gig Harbor, WA  <img src="md_images/Gig_Harbor_Home_1.png" width="864">   <img src="md_images/Gig_Harbor_Home_2.png" width="864">   <img src="md_images/Gig_Harbor_Home_3.png" width="864">  
