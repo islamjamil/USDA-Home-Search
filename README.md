@@ -132,8 +132,8 @@ Follow these steps to get your own local copy of USDA Home Search running locall
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add support for all counties in the United States (only half are supported currently)
-- [ ] Display Home Prices in Google Maps Markers
+- [x] Add support for all counties in the United States (only half are supported currently)
+- [x] Display Home Prices in Google Maps Markers
 - [ ] Recode the Map component to use the Google Maps API in a more "reactful" way
 - [ ] Highlight property on the map when hovering over the property's thumbnail
 - [ ] Add automatic [price maximum](https://www.rd.usda.gov/files/RD-SFHAreaLoanLimitMap.pdf) per county
