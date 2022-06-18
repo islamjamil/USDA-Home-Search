@@ -3,7 +3,7 @@
 
 <br />
 <div align="center">
-  <a href="https://usda-homes.vercel.app" target="_blank">
+  <a href="https://usda-home-search.vercel.app" target="_blank">
     <img src="md_images/USDA_Home_Search_logo.png" alt="Logo" width="670" height="71">
   </a>
 
@@ -17,7 +17,9 @@
 </div>
 
 
-
+  <p align="center">
+    This project can be found at https://usda-home-search.vercel.app/
+  </p>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
